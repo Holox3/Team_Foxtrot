@@ -1,4 +1,5 @@
-# The Travel AI called (T.A.I. - Travel Assistant Intelligence) is a python script that uses a GPT-4 key to help you guide your Travel Trip in a very simple way!
+# The Travel AI called (T.A.I. - Travel Assistant Intelligence) 
+# T.A.I. is a python script that uses a GPT-4 key to help you guide your Travel Trip in a very simple way!
 # My team (Foxtrot) of 3 people created this script as a project to learn about API and OOP.
 
 
